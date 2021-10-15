@@ -7,3 +7,6 @@ Strategies
 - making and following a schedule to improve time management
 - Working on typing shortcuts, and following up immediately with concepts that are fuzzy
 - A few new thoughts...
+- And some more to test autosave
+- And we'll try again
+- And again
