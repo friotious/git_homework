@@ -10,4 +10,4 @@ Strategies
 - And some more to test autosave
 - And we'll try again
 - And again
--Finally figured out github push issue.  Password not recognized.  Setup personal access token. Done deal.
+ 
